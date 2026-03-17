@@ -10,7 +10,7 @@ class SQL:
             self.conn = mysql.connector.connect(
                 host="localhost",
                 user="root",
-                password="DevSQL265Man**"
+                password="YOUR_MYSQL_PASSWORD"
             )
 
             if self.conn.is_connected():
