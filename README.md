@@ -85,8 +85,8 @@ The application provides several GUI pages, all of which are built using Tkinter
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/devlinmanuel/ticket-sales-app.git
-cd ticket-sales-app
+git clone https://github.com/devlinmanuel/event-ticket-sales-app.git
+cd event-ticket-sales-app
 ```
 **2. Install Required Dependencies** (python libraries)
 ```bash 
