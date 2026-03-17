@@ -93,6 +93,7 @@ cd ticket-sales-app
 pip install mysql-connector-python scikit-learn
 ```
 **3. Setup MySQL Database**
+
 Make sure MySQL installed and running. The application will automatically attempt to create the required database and tables when it first connects. Then, adjust the MySQL credentials in the Python code if necessary:
 ```bash 
 mysql.connector.connect(
@@ -106,7 +107,7 @@ mysql.connector.connect(
 
 Make sure the application file you want to run is located in the project directory. Then, run the app from the terminal (this will start the Tkinter GUI application): 
 ```bash 
-python app2.py
+python app.py
 ```
 
 ## AI Recommendation Logic
