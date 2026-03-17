@@ -1,9 +1,7 @@
 # Event Ticket Sales Application (Tkinter + MySQL)
 
 A desktop-based **Event Ticket Sales Application** developed using Python (Tkinter) for the graphical user interface and MySQL as the database system.
-This application allows users to browse events, purchase tickets, manage their accounts, and receive simple AI-based event recommendations.
-
-This project was developed as part of the Database Systems project.
+This application allows users to browse events, purchase tickets, manage their accounts, and receive simple AI-based event recommendations. This project was developed as part of the Database Systems project.
 
 ## Features
 
