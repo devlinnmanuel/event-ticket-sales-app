@@ -1,1 +1,2 @@
-# event-ticket-management-system
+# Event Ticket Sales Application (Tkinter + MySQL)
+
