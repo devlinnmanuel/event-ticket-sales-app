@@ -85,7 +85,7 @@ The application provides several GUI pages, all of which are built using Tkinter
 
 **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/ticket-sales-app.git
+git clone https://github.com/devlinmanuel/ticket-sales-app.git
 cd ticket-sales-app
 ```
 **2. Install Required Dependencies** (python libraries)
@@ -94,7 +94,7 @@ pip install mysql-connector-python scikit-learn
 ```
 **3. Setup MySQL Database**
 
-Make sure MySQL installed and running. The application will automatically attempt to create the required database and tables when it first connects. Then, adjust the MySQL credentials in the the python code (```bash sql.py```) if necessary:
+Make sure MySQL installed and running. The application will automatically attempt to create the required database and tables when it first connects. Then, adjust the MySQL credentials in the the python code (```sql.py```) if necessary:
 ```bash 
 mysql.connector.connect(
     host="localhost",
